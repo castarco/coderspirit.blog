@@ -3,6 +3,6 @@ layout: default
 title: About
 
 ---
-# About the Author or Blog
+# About the author
 
-Here is a little information about the author or the blog.
+My name is Andreu Correa Casablanca.
