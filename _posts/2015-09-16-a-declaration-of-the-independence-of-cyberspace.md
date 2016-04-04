@@ -1,12 +1,12 @@
 ---
 title: A Declaration of the Independence of Cyberspace
 categories:
-    - politics
-    - manifestos
+    - Politics
+    - Manifestos
 tags:
-    - "freedom of speech"
-    - privacy
-    - cyberspace
+    - "Freedom of speech"
+    - Privacy
+    - Cyberspace
 ---
 
 *by John Perry Barlow <barlow@eff.org>*
